@@ -68,7 +68,7 @@ feed:
 safe: False
 lsi: False
 username: bryanyu1
-repo: bryanyu1.githu.io
+repo: bryanyu1.github.io
 branch: master
 relative_source: ../
 destination: ..-pages/
