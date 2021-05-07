@@ -70,8 +70,8 @@ lsi: False
 username: bryanyu1
 repo: blog
 branch: master
-relative_source: /blog/
-destination: /blog-pages/
+relative_source: ../blog/
+destination: ../blog-pages/
 production_url:  https://bryanyu1.github.io/blog/
 source_url:  https://github.com/bryanyu1/blog/
 
