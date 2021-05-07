@@ -1,8 +1,8 @@
-## blog
+### Blog
 
 This blog was created for me to share my travel and fitness adventures. 
 
-### Deployment
+## Deployment
 
 **Important:**  For security reasons, Github does not allow plugins (under `_plugins/`) when
 deploying with Github Pages. This means that we have to do one of the following:
@@ -14,14 +14,14 @@ then host. To do this, simply clone this repository (*master branch*), and then 
 contents to your repository (*master branch* if uploading as your personal page
 (e.g. username.github.io) or *gh-pages branch* if uploading as a project page. 
 
-### Author Pages
+## Author Pages
 
 In order to properly generate author pages you need to rename the field *author* in the
 front matter of every post to match that of your each author's *username* as defined
 in the *[\_data/authors.yml](_data/authors.yml)* file.
 With the latest update, multiple author blogs are now supported out of the box.
 
-### Compiling Styles
+## Compiling Styles
 
 Following on the way Casper styles are compiled as [described here](https://github.com/tryghost/casper#development):
 
@@ -36,4 +36,4 @@ Now you can edit `/assets/css/` files, which will be compiled to `/assets/built/
 
 ## Credits
 
-This repository is created using this Jekyll theme: https://github.com/jekyller/jasper2. 
+This repository is created using the Jasper2 Jekyll theme as follows: https://github.com/jekyller/jasper2. 
