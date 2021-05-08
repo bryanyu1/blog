@@ -1,7 +1,6 @@
-# frozen_string_literal: true
-
 source "https://rubygems.org"
 
-git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
-
-# gem "rails"
+gem "jekyll", "~> 3.7.4"
+gem "github-pages", "~> 192"
+gem "rake", "~> 12.3.1"
+gem "slugify", "~> 1.0"
