@@ -4,7 +4,7 @@ This blog was created for me to share my travel and fitness adventures. I have k
 
 ## Deployment
 
-**Important:**  For security reasons, Github does not allow plugins (under `_plugins/`) when
+**Important:**  For security reasons, Github does not allow plugins (under `_plugins/`) when 
 deploying with Github Pages. This means that we have to do one of the following:
 
 Generate the site locally (more details below) and push the resulting HTML 
