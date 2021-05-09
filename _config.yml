@@ -11,8 +11,8 @@ baseurl: /blog/
 # Website info
 title: Bryan Yu
 description: An immersive lifestyle blog
-cover: assets/images/blog-cover.jpg
-logo: assets/images/blog-icon.png
+cover: assets/images/agnes-lake.jpeg
+logo: assets/images/BY-logo.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
 CNAME: #add cname for website to be created
