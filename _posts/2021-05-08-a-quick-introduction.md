@@ -4,11 +4,11 @@ current: post
 cover:  assets/images/welcome.jpg
 navigation: True
 title: My Life Introduction
-date: 2021-05-07 14:00:00
+date: 2021-05-08 17:00:00
 tags: [introduction]
 class: post-template
 subclass: 'post'
 author: bryan
 ---
 
-Hey everyone! This is officially my first post and official website I have ever created. 
+Hi everyone! My name is Bryan Yu, and this is officially my first post and website I have ever created. 
