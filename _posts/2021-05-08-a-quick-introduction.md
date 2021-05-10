@@ -11,4 +11,4 @@ subclass: 'post'
 author: bryan
 ---
 
-Hi everyone! My name is Bryan Yu, and this is officially my first post and website I have ever created.
+Hi everyone! My name is Bryan Yu, and this is officially my first post and website I have ever created. 
