@@ -4,9 +4,6 @@ This blog was created for me to share my travel and fitness adventures. I have k
 
 ## Deployment
 
-**Important:**  For security reasons, Github does not allow plugins (under `_plugins/`) when 
-deploying with Github Pages. This means that we have to do one of the following:
-
 Generate the site locally (more details below) and push the resulting HTML 
 (the contents of `_site/` or `../blog-pages/`) to a Github repository, that GitHub Pages
 then host. To do this, simply clone this repository (*master branch*), and then run
