@@ -3,7 +3,7 @@ layout: post
 current: post
 cover:  assets/images/buntzen-lake.jpeg
 navigation: True
-title: A Quick Introduction
+title: A Quick Introduction 
 date: 2021-05-08 17:00:00
 tags: [introduction]
 class: post-template
