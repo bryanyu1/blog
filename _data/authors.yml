@@ -9,3 +9,14 @@ bryan:
   facebook: bryanyu88
   twitter: False
   cover: assets/images/hannah-cover.jpg
+elva:
+  username: elva
+  name: Elva Yu
+  location: BC, Canada
+  url_full: false
+  url: false
+  bio: Elva is a 
+  picture: false
+  facebook: false
+  twitter: False
+  cover: assets/images/hannah-cover.jpg
