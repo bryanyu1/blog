@@ -14,4 +14,4 @@ Hi! My name is Bryan Yu, and welcome to my blog!
 
 I am currently a undergraduate student at the University of Waterloo and Wilfrid Laurier University in Ontario, Canada. 
 
-My dream is to be a lifelong learner and explorer.
+My dream is to be a lifelong learner and explorer. 
