@@ -5,13 +5,13 @@ cover: assets/images/sky.jpg
 navigation: True
 title: I Have a Dream
 date: 1963-08-28 11:18:00
-tags:
+tags: introduction
 class: post-template
 subclass: 'post'
 author: bryan
 ---
 
-I am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation. 
+I am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation.
 
 Five score years ago, a great American, in whose symbolic shadow we stand today, signed the Emancipation Proclamation. This momentous decree came as a great beacon light of hope to millions of Negro slaves who had been seared in the flames of withering injustice. It came as a joyous daybreak to end the long night of their captivity.
 
