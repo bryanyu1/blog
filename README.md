@@ -1,4 +1,4 @@
-# Personal Blog 
+# Personal Blog
 
 This blog was created for me to share my travel and fitness adventures. I have kept some important information below on how to maintain and update the site.
 
