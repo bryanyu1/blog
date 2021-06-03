@@ -2,7 +2,7 @@
 
 This blog was created for me to share my travel and fitness adventures. I have kept some important information below on how to maintain and update the site.
 
-## Deployment
+## Deployment 
 
 Generate the site locally (more details below) and push the resulting HTML  
 (the contents of `_site/` or `../blog-pages/`) to a Github repository, that GitHub Pages
