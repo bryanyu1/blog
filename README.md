@@ -13,4 +13,4 @@ contents to your repository (*master branch* if uploading as your personal page
 
 ## Credits
 
-This repository is created using the Jasper2 Jekyll theme as follows: https://github.com/jekyller/jasper2. 
+This repository is created using the Jasper2 Jekyll theme as follows: https://github.com/jekyller/jasper2.
