@@ -9,7 +9,7 @@ Generate the site locally (more details below) and push the resulting HTML
 then host. To do this, simply clone this repository (*master branch*), and then run
 `bundle exec jekyll serve` inside the directory. Upload the resulting `_site/` (or `../blog-pages/`)
 contents to your repository (*master branch* if uploading as your personal page
-(e.g. username.github.io) or *gh-pages branch* if uploading as a project page.
+(e.g. username.github.io) or *gh-pages branch* if uploading as a project page. 
 
 ## Credits
 
