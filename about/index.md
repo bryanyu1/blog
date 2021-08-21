@@ -8,7 +8,7 @@ class: page-template
 subclass: 'post page'
 ---
 
-Hi! My name is Bryan Yu, and welcome to my blog!
+Hi! My name is Bryan Yu, and welcome to my blog! 
 
 *Insert photo here of me*  
 
