@@ -4,7 +4,7 @@ introduction:
   cover: assets/images/speeches.jpg
 hiking:
   name: hiking
-  description: A compilation of all hikes, landscape photography, and hiking materials. 
+  description: A compilation of all hikes, landscape photography, and hiking materials.
   cover: False
 gym:
   name: gym
