@@ -11,7 +11,7 @@ baseurl: /blog/
 # Website info
 title: Bryan Yu
 description: An immersive lifestyle and photography blog
-cover: assets/images/dark-wallpaper2.jpg
+cover: assets/images/dark-wallpaper.jpg
 logo: assets/images/BY-logo.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
