@@ -8,7 +8,7 @@ bryan:
   picture: assets/images/bryan.jpeg
   facebook: bryanyu88
   twitter: False
-  cover: assets/images/hannah-cover.jpg
+  cover: assets/images/buntzen-lake.jpeg
 elva:
   username: elva
   name: Elva Yu
@@ -19,4 +19,4 @@ elva:
   picture: false
   facebook: false
   twitter: False
-  cover: assets/images/hannah-cover.jpg
+  cover: assets/images/agnes-lake.jpeg
