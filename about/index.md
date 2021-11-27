@@ -8,7 +8,7 @@ class: page-template
 subclass: 'post page'
 ---
 
-<img max-width="100vw" align="center" src="https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/bryan-garibaldi.jpeg?raw=true" alt="bryan-yu-garibaldi-lake">
+<img align="center" max-width="100vw" src="https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/bryan-garibaldi.jpeg?raw=true" alt="bryan-yu-garibaldi-lake">
 
 
 Hi! My name is Bryan Yu, and welcome to my blog!
