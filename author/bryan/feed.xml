@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://localhost:4000/blog/author/bryan/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/blog/" rel="alternate" type="text/html" />
-  <updated>2021-11-26T20:20:45-05:00</updated>
+  <updated>2021-11-26T20:25:47-05:00</updated>
   <id>http://localhost:4000/blog/author/bryan/feed.xml</id>
 
   
@@ -34,46 +34,10 @@
 
   
     <entry>
-      <title type="html">A Quick Introduction</title>
-      <link href="http://localhost:4000/blog/a-quick-introduction" rel="alternate" type="text/html" title="A Quick Introduction" />
-      <published>2021-05-08T13:00:00-04:00</published>
-      <updated>2021-05-08T13:00:00-04:00</updated>
-      <id>http://localhost:4000/blog/a-quick-introduction</id>
-      <content type="html" xml:base="http://localhost:4000/blog/a-quick-introduction">&lt;p&gt;Hi everyone! My name is Bryan Yu, and this is officially my first post and website I have ever created.&lt;/p&gt;
-
-&lt;p&gt;As a quick introduction, I am a Mathematics and Business Student at the University of Waterloo and Wilfrid Laurier University in Ontario, Canada. The main focuses of my academics are in Statistics and Finance with minors in Computational Mathematics and Actuarial Science. I know what you are thinking, how did a STEM student end up becoming a travel and fitness blog writer?&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Bryan Yu</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="introduction" />
-      
-
-      
-        <summary type="html">Hi everyone! My name is Bryan Yu, and this is officially my first post and website I have ever created.</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
       <title type="html">Icefields Parkway</title>
       <link href="http://localhost:4000/blog/icefields-parkway" rel="alternate" type="text/html" title="Icefields Parkway" />
-      <published>2021-05-08T13:00:00-04:00</published>
-      <updated>2021-05-08T13:00:00-04:00</updated>
+      <published>2021-11-26T15:00:00-05:00</published>
+      <updated>2021-11-26T15:00:00-05:00</updated>
       <id>http://localhost:4000/blog/icefields-parkway</id>
       <content type="html" xml:base="http://localhost:4000/blog/icefields-parkway">&lt;p&gt;My favourite drive in the world is between Lake Louise and Jasper in Alberta, Canada.&lt;/p&gt;
 
@@ -109,6 +73,42 @@
 
       
         <summary type="html">My favourite drive in the world is between Lake Louise and Jasper in Alberta, Canada.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">A Quick Introduction</title>
+      <link href="http://localhost:4000/blog/a-quick-introduction" rel="alternate" type="text/html" title="A Quick Introduction" />
+      <published>2021-05-08T13:00:00-04:00</published>
+      <updated>2021-05-08T13:00:00-04:00</updated>
+      <id>http://localhost:4000/blog/a-quick-introduction</id>
+      <content type="html" xml:base="http://localhost:4000/blog/a-quick-introduction">&lt;p&gt;Hi everyone! My name is Bryan Yu, and this is officially my first post and website I have ever created.&lt;/p&gt;
+
+&lt;p&gt;As a quick introduction, I am a Mathematics and Business Student at the University of Waterloo and Wilfrid Laurier University in Ontario, Canada. The main focuses of my academics are in Statistics and Finance with minors in Computational Mathematics and Actuarial Science. I know what you are thinking, how did a STEM student end up becoming a travel and fitness blog writer?&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Bryan Yu</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="introduction" />
+      
+
+      
+        <summary type="html">Hi everyone! My name is Bryan Yu, and this is officially my first post and website I have ever created.</summary>
       
 
       
