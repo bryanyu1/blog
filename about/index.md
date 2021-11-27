@@ -10,7 +10,7 @@ subclass: 'post page'
 
 Hi! My name is Bryan Yu, and welcome to my blog!
 
-<img width="300" align="center" src="https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/bryan-garibaldi.jpeg?raw=true" alt="bryan-yu-garibaldi-lake">
+<img width="800" align="center" src="https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/bryan-garibaldi.jpeg?raw=true" alt="bryan-yu-garibaldi-lake">
 
 I am currently a undergraduate student at the University of Waterloo and Wilfrid Laurier University in Ontario, Canada. I am studying mathematics and business administration simultaneously at each aforementioned university respectively, majoring in statistics and finance. My career goal is to become a data scientist and/or quantitative modeller. From the outside, it may seem that academics and my professional life define who I am. However, academics are not the only aspect of my life. I am also an avid traveller, hiker, and fitness enthusiast. 
 
