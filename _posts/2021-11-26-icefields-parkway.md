@@ -24,3 +24,5 @@ Here are some of my favourite photos from my roadtrip North. Please enjoy!
 <img max-width="100vw" align="center" src="https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Jasper4.jpeg?raw=true" alt="Jasper4">
 
 <img max-width="100vw" align="center" src="https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Jasper5.jpeg?raw=true" alt="Jasper5">
+
+<img max-width="100vw" align="center" src="https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Jasper6.jpeg?raw=true" alt="Jasper6">
