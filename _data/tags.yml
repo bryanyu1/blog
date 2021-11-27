@@ -1,6 +1,6 @@
 introduction:
   name: introduction
-  description: A little about me
+  description: A little about me 
   cover: assets/images/Lake-Moraine1.jpeg
 hiking:
   name: hiking
