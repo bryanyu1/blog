@@ -11,7 +11,7 @@ subclass: 'post'
 author: bryan
 ---
 
-My favourite drive in the world is between Lake Louise and Jasper in Alberta, Canada.
+My favourite drive in the world is between Lake Louise and Jasper in Alberta, Canada. 
 
 Here are some of my favourite photos from my roadtrip North. Please enjoy!
 
