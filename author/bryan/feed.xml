@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://localhost:4000/blog/author/bryan/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/blog/" rel="alternate" type="text/html" />
-  <updated>2021-11-26T20:25:47-05:00</updated>
+  <updated>2021-11-26T22:39:57-05:00</updated>
   <id>http://localhost:4000/blog/author/bryan/feed.xml</id>
 
   
@@ -36,8 +36,8 @@
     <entry>
       <title type="html">Icefields Parkway</title>
       <link href="http://localhost:4000/blog/icefields-parkway" rel="alternate" type="text/html" title="Icefields Parkway" />
-      <published>2021-11-26T15:00:00-05:00</published>
-      <updated>2021-11-26T15:00:00-05:00</updated>
+      <published>2021-08-21T08:00:00-04:00</published>
+      <updated>2021-08-21T08:00:00-04:00</updated>
       <id>http://localhost:4000/blog/icefields-parkway</id>
       <content type="html" xml:base="http://localhost:4000/blog/icefields-parkway">&lt;p&gt;My favourite drive in the world is between Lake Louise and Jasper in Alberta, Canada.&lt;/p&gt;
 
@@ -51,7 +51,9 @@
 
 &lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Jasper4.jpeg?raw=true&quot; alt=&quot;Jasper4&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Jasper5.jpeg?raw=true&quot; alt=&quot;Jasper5&quot; /&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Jasper5.jpeg?raw=true&quot; alt=&quot;Jasper5&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Jasper6.jpeg?raw=true&quot; alt=&quot;Jasper6&quot; /&gt;&lt;/p&gt;</content>
 
       
       
@@ -80,14 +82,62 @@
     </entry>
   
     <entry>
+      <title type="html">Garibaldi Lake in Winter</title>
+      <link href="http://localhost:4000/blog/garibaldi-lake-in-winter" rel="alternate" type="text/html" title="Garibaldi Lake in Winter" />
+      <published>2021-04-10T06:00:00-04:00</published>
+      <updated>2021-04-10T06:00:00-04:00</updated>
+      <id>http://localhost:4000/blog/garibaldi-lake-in-winter</id>
+      <content type="html" xml:base="http://localhost:4000/blog/garibaldi-lake-in-winter">&lt;p&gt;A very chilly wintertime hike to Garibaldi Lake in BC, Canada.&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Garibaldi-Lake1.jpeg?raw=true&quot; alt=&quot;Garibaldi-Lake1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Garibaldi-Lake2.jpeg?raw=true&quot; alt=&quot;Garibaldi-Lake2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Garibaldi-Lake3.jpeg?raw=true&quot; alt=&quot;Garibaldi-Lake3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Garibaldi-Lake4.jpeg?raw=true&quot; alt=&quot;Garibaldi-Lake4&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Garibaldi-Lake5.jpeg?raw=true&quot; alt=&quot;Garibaldi-Lake5&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Garibaldi-Lake6.jpeg?raw=true&quot; alt=&quot;Garibaldi-Lake6&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Garibaldi-Lake7.jpeg?raw=true&quot; alt=&quot;Garibaldi-Lake7&quot; /&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Bryan Yu</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="hiking" />
+      
+
+      
+        <summary type="html">A very chilly wintertime hike to Garibaldi Lake in BC, Canada.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
       <title type="html">A Quick Introduction</title>
       <link href="http://localhost:4000/blog/a-quick-introduction" rel="alternate" type="text/html" title="A Quick Introduction" />
-      <published>2021-05-08T13:00:00-04:00</published>
-      <updated>2021-05-08T13:00:00-04:00</updated>
+      <published>2020-01-02T12:00:00-05:00</published>
+      <updated>2020-01-02T12:00:00-05:00</updated>
       <id>http://localhost:4000/blog/a-quick-introduction</id>
       <content type="html" xml:base="http://localhost:4000/blog/a-quick-introduction">&lt;p&gt;Hi everyone! My name is Bryan Yu, and this is officially my first post and website I have ever created.&lt;/p&gt;
 
-&lt;p&gt;As a quick introduction, I am a Mathematics and Business Student at the University of Waterloo and Wilfrid Laurier University in Ontario, Canada. The main focuses of my academics are in Statistics and Finance with minors in Computational Mathematics and Actuarial Science. I know what you are thinking, how did a STEM student end up becoming a travel and fitness blog writer?&lt;/p&gt;</content>
+&lt;p&gt;As a quick introduction, I am a Mathematics and Business Student at the University of Waterloo and Wilfrid Laurier University in Ontario, Canada. The main focuses of my academics are in Statistics and Finance. I know what you are thinking, how did a STEM student end up becoming a travel and fitness blog writer and photographer? Over the years, I have realized that my life is so much more than just my academics and professional work. I have a passion for fitness and exploring new places. From chasing sunsets and sunrises to exploring new cultures and cities worldwide, I love it all. This blog is just a small snippet of my adventures around the world and my fitness journey to becoming a healthier and more well-rounded person. Please feel free to peruse my writing and photography. I hope you can relive the happiest moments of my journey, and I can inspire you to travel and explore with me!&lt;/p&gt;</content>
 
       
       

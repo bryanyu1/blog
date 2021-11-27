@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://localhost:4000/blog/tag/travel/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/blog/" rel="alternate" type="text/html" />
-  <updated>2021-11-26T20:25:47-05:00</updated>
+  <updated>2021-11-26T22:39:57-05:00</updated>
   <id>http://localhost:4000/blog/tag/travel/feed.xml</id>
 
   
@@ -36,8 +36,8 @@
     <entry>
       <title type="html">Icefields Parkway</title>
       <link href="http://localhost:4000/blog/icefields-parkway" rel="alternate" type="text/html" title="Icefields Parkway" />
-      <published>2021-11-26T15:00:00-05:00</published>
-      <updated>2021-11-26T15:00:00-05:00</updated>
+      <published>2021-08-21T08:00:00-04:00</published>
+      <updated>2021-08-21T08:00:00-04:00</updated>
       <id>http://localhost:4000/blog/icefields-parkway</id>
       <content type="html" xml:base="http://localhost:4000/blog/icefields-parkway">&lt;p&gt;My favourite drive in the world is between Lake Louise and Jasper in Alberta, Canada.&lt;/p&gt;
 
@@ -51,7 +51,9 @@
 
 &lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Jasper4.jpeg?raw=true&quot; alt=&quot;Jasper4&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Jasper5.jpeg?raw=true&quot; alt=&quot;Jasper5&quot; /&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Jasper5.jpeg?raw=true&quot; alt=&quot;Jasper5&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Jasper6.jpeg?raw=true&quot; alt=&quot;Jasper6&quot; /&gt;&lt;/p&gt;</content>
 
       
       
