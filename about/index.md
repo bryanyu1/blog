@@ -10,8 +10,6 @@ subclass: 'post page'
 
 Hi! My name is Bryan Yu, and welcome to my blog!
 
-![bryan-garibaldi](assets/images/bryan-garibaldi.jpeg)
-
 <p align="center">
   <img src="https://github.com/bryanyu1/blog/tree/gh-pages/assets/images/bryan-garibaldi.jpeg" alt="bryan-yu-garibaldi-lake">
 </p>
