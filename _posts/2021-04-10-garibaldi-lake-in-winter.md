@@ -11,7 +11,7 @@ subclass: 'post'
 author: bryan
 ---
 
-A very chilly wintertime hike to Garibaldi Lake in BC, Canada. 
+A very chilly wintertime hike to Garibaldi Lake in BC, Canada.
 
 <img max-width="100vw" align="center" src="https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Garibaldi-Lake1.jpeg?raw=true" alt="Garibaldi-Lake1">
 
