@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://localhost:4000/blog/author/bryan/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/blog/" rel="alternate" type="text/html" />
-  <updated>2021-11-26T20:07:07-05:00</updated>
+  <updated>2021-11-26T20:14:37-05:00</updated>
   <id>http://localhost:4000/blog/author/bryan/feed.xml</id>
 
   
@@ -75,17 +75,19 @@
       <published>2021-05-08T13:00:00-04:00</published>
       <updated>2021-05-08T13:00:00-04:00</updated>
       <id>http://localhost:4000/blog/icefields-parkway</id>
-      <content type="html" xml:base="http://localhost:4000/blog/icefields-parkway">&lt;p&gt;My favourite drive in the world is between Lake Louise and Jasper in Alberta, Canada. Here are some of my favourite photos from my roadtrip North.&lt;/p&gt;
+      <content type="html" xml:base="http://localhost:4000/blog/icefields-parkway">&lt;p&gt;My favourite drive in the world is between Lake Louise and Jasper in Alberta, Canada.&lt;/p&gt;
+
+&lt;p&gt;Here are some of my favourite photos from my roadtrip North. Please enjoy!&lt;/p&gt;
 
 &lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Jasper1.jpeg?raw=true&quot; alt=&quot;Jasper1&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img width=&quot;1400&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Jasper2.jpeg?raw=true&quot; alt=&quot;Jasper2&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Jasper2.jpeg?raw=true&quot; alt=&quot;Jasper2&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img width=&quot;1200&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Jasper3.jpeg?raw=true&quot; alt=&quot;Jasper3&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Jasper3.jpeg?raw=true&quot; alt=&quot;Jasper3&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img width=&quot;1000&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Jasper4.jpeg?raw=true&quot; alt=&quot;Jasper4&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Jasper4.jpeg?raw=true&quot; alt=&quot;Jasper4&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img width=&quot;900&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Jasper5.jpeg?raw=true&quot; alt=&quot;Jasper5&quot; /&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Jasper5.jpeg?raw=true&quot; alt=&quot;Jasper5&quot; /&gt;&lt;/p&gt;</content>
 
       
       
@@ -106,7 +108,7 @@
       
 
       
-        <summary type="html">My favourite drive in the world is between Lake Louise and Jasper in Alberta, Canada. Here are some of my favourite photos from my roadtrip North.</summary>
+        <summary type="html">My favourite drive in the world is between Lake Louise and Jasper in Alberta, Canada.</summary>
       
 
       
