@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/Jasper3.jpeg
+cover:  assets/images/Crego-Lake2.jpeg
 navigation: True
 title: Crego Lake
 date: 2021-08-21 12:00:00
