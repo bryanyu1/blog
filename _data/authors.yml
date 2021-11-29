@@ -4,7 +4,7 @@ bryan:
   location: BC, Canada
   url_full: https://www.linkedin.com/in/yu-bryan/
   url: www.linkedin.com/in/yu-bryan/
-  bio: Bryan is a fitness enthusiast with a passion for travelling, weight-lifting, hiking, swimming, and skiing.
+  bio: Bryan is a fitness enthusiast with a passion for travelling, weight-lifting, hiking, swimming, and skiing. 
   picture: assets/images/bryan.jpeg
   facebook: bryanyu88
   twitter: False
@@ -13,10 +13,10 @@ elva:
   username: elva
   name: Elva Yu
   location: BC, Canada
-  url_full: false
-  url: false
+  url_full: https://www.instagram.com/elva.yu/
+  url: www.instagram.com/elva.yu/
   bio: Elva is an experienced swimmer, snowboarder, and skier with a passion for the outdoors.
   picture: false
-  facebook: false
+  facebook: elva.yu.92
   twitter: False
   cover: assets/images/Lake-Louise2.jpeg
