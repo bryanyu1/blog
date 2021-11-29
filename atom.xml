@@ -8,13 +8,58 @@
     
       
       <item>
-        <title>Icefields Parkway</title>
+        <title>Crego Lake</title>
         
-          <description>&lt;p&gt;My favourite drive in the world is between Lake Louise and Jasper in Alberta, Canada.&lt;/p&gt;
+          <description>&lt;p&gt;Cottage season means I get to see the most amazing lakes in Northern Ontario!&lt;/p&gt;
 
 </description>
         
         <pubDate>Sat, 21 Aug 2021 08:00:00 -0400</pubDate>
+        <link>
+        http://localhost:4000/crego-lake</link>
+        <guid isPermaLink="true">http://localhost:4000/crego-lake</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Garibaldi Lake in Winter</title>
+        
+          <description>&lt;p&gt;A very chilly wintertime hike to Garibaldi Lake in BC, Canada!&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 10 Apr 2021 06:00:00 -0400</pubDate>
+        <link>
+        http://localhost:4000/garibaldi-lake-in-winter</link>
+        <guid isPermaLink="true">http://localhost:4000/garibaldi-lake-in-winter</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Lake Louise Tea House Hike</title>
+        
+          <description>&lt;p&gt;My favourite hike thus far has gotta be the tea house hike at Lake Louise in Alberta, Canada!&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 23 Aug 2020 03:00:00 -0400</pubDate>
+        <link>
+        http://localhost:4000/lake-louise-tea-house-hike</link>
+        <guid isPermaLink="true">http://localhost:4000/lake-louise-tea-house-hike</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Icefields Parkway</title>
+        
+          <description>&lt;p&gt;My favourite drive in the world is between Lake Louise and Jasper in Alberta, Canada!&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Fri, 21 Aug 2020 08:00:00 -0400</pubDate>
         <link>
         http://localhost:4000/icefields-parkway</link>
         <guid isPermaLink="true">http://localhost:4000/icefields-parkway</guid>
@@ -23,16 +68,16 @@
     
       
       <item>
-        <title>Garibaldi Lake in Winter</title>
+        <title>Blackcomb Meadows and Overlord Trail</title>
         
-          <description>&lt;p&gt;A very chilly wintertime hike to Garibaldi Lake in BC, Canada.&lt;/p&gt;
+          <description>&lt;p&gt;Blackcomb Meadows and Overlord Trail is one of the most breathtaking hikes in the Whistler, BC area!&lt;/p&gt;
 
 </description>
         
-        <pubDate>Sat, 10 Apr 2021 06:00:00 -0400</pubDate>
+        <pubDate>Sat, 18 Jul 2020 08:00:00 -0400</pubDate>
         <link>
-        http://localhost:4000/garibaldi-lake-in-winter</link>
-        <guid isPermaLink="true">http://localhost:4000/garibaldi-lake-in-winter</guid>
+        http://localhost:4000/blackcomb-meadows</link>
+        <guid isPermaLink="true">http://localhost:4000/blackcomb-meadows</guid>
       </item>
       
     
