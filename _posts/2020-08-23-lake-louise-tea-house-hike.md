@@ -4,7 +4,7 @@ current: post
 cover:  assets/images/Lake-Louise4.jpeg
 navigation: True
 title: Lake Louise Tea House Hike
-date: 2021-08-23 7:00:00
+date: 2020-08-23 7:00:00
 tags: [hiking]
 class: post-template
 subclass: 'post'
