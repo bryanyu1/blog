@@ -3,7 +3,7 @@ layout: post
 current: post
 cover:  assets/images/Philadelphia1.jpeg
 navigation: True
-title: The Wonders of Philadelphia
+title: The Historical Valley Forge
 date: 2021-02-23 12:00:00
 tags: [travel]
 class: post-template
@@ -13,7 +13,7 @@ author: bryan
 
 A historical land with much to discover! 
 
-Here are some of my favourite photos from the most touristy locations in Philadelphia and its neighbouring cities! 
+Located just outside of Philadelphia, PA, USA, here are some of my favourite memorials from the Valley Forge! 
 
 <img max-width="100vw" align="center" src="https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Philadelphia1.jpeg?raw=true" alt="Philadelphia1">
 
