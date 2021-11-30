@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/Philadelphia1.jpeg
+cover:  assets/images/Philadelphia3.jpeg
 navigation: True
 title: The Historical Valley Forge
 date: 2021-02-23 12:00:00
