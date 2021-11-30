@@ -4,7 +4,7 @@ introduction:
   cover: assets/images/Lake-Moraine1.jpeg
 hiking:
   name: hiking
-  description: A compilation of great hikes and beautiful landscapes
+  description: A compilation of great hikes and beautiful landscapes 
   cover: assets/images/Tunnel-Bluffs.jpeg
 travel:
   name: travel
