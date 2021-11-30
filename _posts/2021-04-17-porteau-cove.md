@@ -11,7 +11,7 @@ subclass: 'post'
 author: bryan
 ---
 
-Between Whistler and Vancouver, BC, Canada, we find a hidden gem: Porteau Cove!  
+Between Whistler and Vancouver, BC, Canada, we find a hidden gem: Porteau Cove! 
 
 With a beautiful beach and breathtaking views, the park is a stellar location for a picnic. Sneak peak of the views below! 
 
