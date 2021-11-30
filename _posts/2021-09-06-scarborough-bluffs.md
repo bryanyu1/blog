@@ -3,7 +3,7 @@ layout: post
 current: post
 cover:  assets/images/Scarborough-Bluffs2.jpeg
 navigation: True
-title: Crego Lake
+title: Scarborough Bluffs
 date: 2021-09-06 4:00:00
 tags: [travel]
 class: post-template
