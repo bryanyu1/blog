@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://localhost:4000/blog/author/bryan/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/blog/" rel="alternate" type="text/html" />
-  <updated>2021-11-29T16:04:46-05:00</updated>
+  <updated>2021-11-29T20:44:31-05:00</updated>
   <id>http://localhost:4000/blog/author/bryan/feed.xml</id>
 
   
@@ -32,6 +32,48 @@
   
   
 
+  
+    <entry>
+      <title type="html">Scarborough Bluffs</title>
+      <link href="http://localhost:4000/blog/scarborough-bluffs" rel="alternate" type="text/html" title="Scarborough Bluffs" />
+      <published>2021-09-06T00:00:00-04:00</published>
+      <updated>2021-09-06T00:00:00-04:00</updated>
+      <id>http://localhost:4000/blog/scarborough-bluffs</id>
+      <content type="html" xml:base="http://localhost:4000/blog/scarborough-bluffs">&lt;p&gt;Who knew Toronto, Ontario had beautiful scenary just outside of the city!&lt;/p&gt;
+
+&lt;p&gt;Here are some of my favourite photos from a hidden gem, the Scarborough Bluffs, just outside of the major city!&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Scarborough-Bluffs1.jpeg?raw=true&quot; alt=&quot;Scarborough-Bluffs1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Scarborough-Bluffs2.jpeg?raw=true&quot; alt=&quot;Scarborough-Bluffs2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Scarborough-Bluffs3.jpeg?raw=true&quot; alt=&quot;Scarborough-Bluffs3&quot; /&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Bryan Yu</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="travel" />
+      
+
+      
+        <summary type="html">Who knew Toronto, Ontario had beautiful scenary just outside of the city!</summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">Crego Lake</title>
@@ -119,6 +161,136 @@
 
       
         <summary type="html">A very chilly wintertime hike to Garibaldi Lake in BC, Canada!</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">The Historical Valley Forge</title>
+      <link href="http://localhost:4000/blog/valley-forge" rel="alternate" type="text/html" title="The Historical Valley Forge" />
+      <published>2021-02-23T07:00:00-05:00</published>
+      <updated>2021-02-23T07:00:00-05:00</updated>
+      <id>http://localhost:4000/blog/valley-forge</id>
+      <content type="html" xml:base="http://localhost:4000/blog/valley-forge">&lt;p&gt;A historical land with much to discover!&lt;/p&gt;
+
+&lt;p&gt;Located just outside of Philadelphia, PA, USA, here are some of my favourite memorials from the Valley Forge!&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Philadelphia1.jpeg?raw=true&quot; alt=&quot;Philadelphia1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Philadelphia2.jpeg?raw=true&quot; alt=&quot;Philadelphia2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Philadelphia3.jpeg?raw=true&quot; alt=&quot;Philadelphia3&quot; /&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Bryan Yu</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="travel" />
+      
+
+      
+        <summary type="html">A historical land with much to discover!</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">The Beauty of New York City</title>
+      <link href="http://localhost:4000/blog/new-york" rel="alternate" type="text/html" title="The Beauty of New York City" />
+      <published>2021-02-07T22:00:00-05:00</published>
+      <updated>2021-02-07T22:00:00-05:00</updated>
+      <id>http://localhost:4000/blog/new-york</id>
+      <content type="html" xml:base="http://localhost:4000/blog/new-york">&lt;p&gt;A place where your dreams come true!&lt;/p&gt;
+
+&lt;p&gt;Here are some of my favourite photos from the most touristy locations in New York city and Brooklyn!&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/New-York1.jpeg?raw=true&quot; alt=&quot;New-York1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/New-York2.jpeg?raw=true&quot; alt=&quot;New-York2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/New-York5.jpeg?raw=true&quot; alt=&quot;New-York5&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/New-York6.jpeg?raw=true&quot; alt=&quot;New-York6&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/New-York3.jpeg?raw=true&quot; alt=&quot;New-York3&quot; /&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Bryan Yu</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="travel" />
+      
+
+      
+        <summary type="html">A place where your dreams come true!</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Exploring Goldstream</title>
+      <link href="http://localhost:4000/blog/goldstream" rel="alternate" type="text/html" title="Exploring Goldstream" />
+      <published>2020-09-19T08:00:00-04:00</published>
+      <updated>2020-09-19T08:00:00-04:00</updated>
+      <id>http://localhost:4000/blog/goldstream</id>
+      <content type="html" xml:base="http://localhost:4000/blog/goldstream">&lt;p&gt;A short drive outside of Victoria, BC, Canada, we find Goldstream Provincial Park!&lt;/p&gt;
+
+&lt;p&gt;With plenty of routes to hike and destinations to explore, the park is an absolute wonder to hike. Please enjoy some photos of my favourite landscapes and the very unique Goldstream trestle!&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Goldstream1.jpeg?raw=true&quot; alt=&quot;Goldstream1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Goldstream2.jpeg?raw=true&quot; alt=&quot;Goldstream2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Goldstream3.jpeg?raw=true&quot; alt=&quot;Goldstream3&quot; /&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Bryan Yu</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="travel" />
+      
+
+      
+        <summary type="html">A short drive outside of Victoria, BC, Canada, we find Goldstream Provincial Park!</summary>
       
 
       
@@ -284,14 +456,20 @@
     </entry>
   
     <entry>
-      <title type="html">A Quick Introduction</title>
-      <link href="http://localhost:4000/blog/a-quick-introduction" rel="alternate" type="text/html" title="A Quick Introduction" />
-      <published>2020-01-02T12:00:00-05:00</published>
-      <updated>2020-01-02T12:00:00-05:00</updated>
-      <id>http://localhost:4000/blog/a-quick-introduction</id>
-      <content type="html" xml:base="http://localhost:4000/blog/a-quick-introduction">&lt;p&gt;Hi everyone! My name is Bryan Yu, and this is officially my first post and website I have ever created.&lt;/p&gt;
+      <title type="html">Porteau Cove</title>
+      <link href="http://localhost:4000/blog/porteau-cove" rel="alternate" type="text/html" title="Porteau Cove" />
+      <published>2020-04-16T23:00:00-04:00</published>
+      <updated>2020-04-16T23:00:00-04:00</updated>
+      <id>http://localhost:4000/blog/porteau-cove</id>
+      <content type="html" xml:base="http://localhost:4000/blog/porteau-cove">&lt;p&gt;Between Whistler and Vancouver, BC, Canada, we find a hidden gem: Porteau Cove!&lt;/p&gt;
 
-&lt;p&gt;As a quick introduction, I am a Mathematics and Business Student at the University of Waterloo and Wilfrid Laurier University in Ontario, Canada. The main focuses of my academics are in Statistics and Finance. I know what you are thinking, how did a STEM student end up becoming a travel and fitness blog writer and photographer? Over the years, I have realized that my life is so much more than just my academics and professional work. I have a passion for fitness and exploring new places. From chasing sunsets and sunrises to exploring new cultures and cities worldwide, I love it all. This blog is just a small snippet of my adventures around the world and my fitness journey to becoming a healthier and more well-rounded person. Please feel free to peruse my writing and photography. I hope you can relive the happiest moments of my journey, and I can inspire you to travel and explore with me!&lt;/p&gt;</content>
+&lt;p&gt;With a beautiful beach and breathtaking views, the park is a stellar location for a picnic. Sneak peak of the views below!&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Porteau-Cove1.jpeg?raw=true&quot; alt=&quot;Porteau-Cove1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Porteau-Cove2.jpeg?raw=true&quot; alt=&quot;Porteau-Cove2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Porteau-Cove4.jpeg?raw=true&quot; alt=&quot;Porteau-Cove4&quot; /&gt;&lt;/p&gt;</content>
 
       
       
@@ -308,11 +486,11 @@
       
 
       
-        <category term="introduction" />
+        <category term="travel" />
       
 
       
-        <summary type="html">Hi everyone! My name is Bryan Yu, and this is officially my first post and website I have ever created.</summary>
+        <summary type="html">Between Whistler and Vancouver, BC, Canada, we find a hidden gem: Porteau Cove!</summary>
       
 
       

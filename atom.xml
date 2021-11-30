@@ -8,6 +8,21 @@
     
       
       <item>
+        <title>Scarborough Bluffs</title>
+        
+          <description>&lt;p&gt;Who knew Toronto, Ontario had beautiful scenary just outside of the city!&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 06 Sep 2021 00:00:00 -0400</pubDate>
+        <link>
+        http://localhost:4000/scarborough-bluffs</link>
+        <guid isPermaLink="true">http://localhost:4000/scarborough-bluffs</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Crego Lake</title>
         
           <description>&lt;p&gt;Cottage season means I get to see the most amazing lakes in Northern Ontario!&lt;/p&gt;
@@ -33,6 +48,51 @@
         <link>
         http://localhost:4000/garibaldi-lake-in-winter</link>
         <guid isPermaLink="true">http://localhost:4000/garibaldi-lake-in-winter</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>The Historical Valley Forge</title>
+        
+          <description>&lt;p&gt;A historical land with much to discover!&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 23 Feb 2021 07:00:00 -0500</pubDate>
+        <link>
+        http://localhost:4000/valley-forge</link>
+        <guid isPermaLink="true">http://localhost:4000/valley-forge</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>The Beauty of New York City</title>
+        
+          <description>&lt;p&gt;A place where your dreams come true!&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 07 Feb 2021 22:00:00 -0500</pubDate>
+        <link>
+        http://localhost:4000/new-york</link>
+        <guid isPermaLink="true">http://localhost:4000/new-york</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Exploring Goldstream</title>
+        
+          <description>&lt;p&gt;A short drive outside of Victoria, BC, Canada, we find Goldstream Provincial Park!&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 19 Sep 2020 08:00:00 -0400</pubDate>
+        <link>
+        http://localhost:4000/goldstream</link>
+        <guid isPermaLink="true">http://localhost:4000/goldstream</guid>
       </item>
       
     
@@ -78,6 +138,21 @@
         <link>
         http://localhost:4000/blackcomb-meadows</link>
         <guid isPermaLink="true">http://localhost:4000/blackcomb-meadows</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Porteau Cove</title>
+        
+          <description>&lt;p&gt;Between Whistler and Vancouver, BC, Canada, we find a hidden gem: Porteau Cove!&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 16 Apr 2020 23:00:00 -0400</pubDate>
+        <link>
+        http://localhost:4000/porteau-cove</link>
+        <guid isPermaLink="true">http://localhost:4000/porteau-cove</guid>
       </item>
       
     
