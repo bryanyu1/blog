@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/Scarborough-Bluffs2.jpeg
+cover:  assets/images/Scarborough-Bluffs1.jpeg
 navigation: True
 title: Scarborough Bluffs
 date: 2021-09-06 4:00:00
