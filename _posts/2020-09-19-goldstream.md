@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/Goldstream2.jpeg
+cover:  assets/images/Goldstream1.jpeg
 navigation: True
 title: Exploring Goldstream
 date: 2020-09-19 12:00:00
