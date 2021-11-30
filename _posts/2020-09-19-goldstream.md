@@ -13,7 +13,7 @@ author: bryan
 
 A short drive outside of Victoria, BC, Canada, we find Goldstream Provincial Park!  
 
-With plenty of routes to hike and destinations to explore, the park is an absolute wonder to hike. Enjoy some photos of my favourite landscapes and the very unique Goldstream trestle! 
+With plenty of routes to hike and destinations to explore, the park is an absolute wonder to hike. Please enjoy some photos of my favourite landscapes and the very unique Goldstream trestle! 
 
 <img max-width="100vw" align="center" src="https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Goldstream1.jpeg?raw=true" alt="Goldstream1">
 
