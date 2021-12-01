@@ -17,6 +17,12 @@ With plenty of routes to hike and destinations to explore, the park is an absolu
 
 <img max-width="100vw" align="center" src="https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Goldstream1.jpeg?raw=true" alt="Goldstream1">
 
-<img max-width="100vw" align="center" src="https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Goldstream2.jpeg?raw=true" alt="Goldstream2">
+<img max-width="100vw" align="center" src="https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Goldstream5.jpeg?raw=true" alt="Goldstream5">
 
 <img max-width="100vw" align="center" src="https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Goldstream3.jpeg?raw=true" alt="Goldstream3">
+
+<img max-width="100vw" align="center" src="https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Goldstream2.jpeg?raw=true" alt="Goldstream2">
+
+<img max-width="100vw" align="center" src="https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Goldstream6.jpeg?raw=true" alt="Goldstream6">
+
+<img max-width="100vw" align="center" src="https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Goldstream4.jpeg?raw=true" alt="Goldstream4">
