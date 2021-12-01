@@ -13,7 +13,7 @@ author: bryan
 
 A challenging, yet rewarding, hike close to Whistler, BC, Canada! 
 
-Here are some of my favourite photos from my smokey hike. Enjoy!
+Here are some of my favourite photos from the smokey hike. Enjoy!
 
 <img max-width="100vw" align="center" src="https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Iceberg-Lake.jpeg?raw=true" alt="Iceberg-Lake">
 
