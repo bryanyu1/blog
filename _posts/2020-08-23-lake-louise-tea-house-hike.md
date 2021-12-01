@@ -42,5 +42,7 @@ On the hike to the second tea house, I took my favourite photo of Lake Louise: a
 
 The second tea house is beside the Plain of Six Glaciers and absolutely beautiful as well! 
 
+<img max-width="100vw" align="center" src="https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Lake-Louise6.jpeg?raw=true" alt="Lake-Louise6">
+
 <img max-width="100vw" align="center" src="https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Lake-Louise2.jpeg?raw=true" alt="Plain of Six Glaciers">
 
