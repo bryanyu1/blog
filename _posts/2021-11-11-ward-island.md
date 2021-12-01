@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/New-York1.jpeg
+cover:  assets/images/Ward-Island2.jpeg
 navigation: True
 title: Ward Island
 date: 2021-11-11 3:00:00
