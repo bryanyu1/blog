@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://localhost:4000/blog/tag/hiking/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/blog/" rel="alternate" type="text/html" />
-  <updated>2021-11-29T21:08:32-05:00</updated>
+  <updated>2021-11-30T21:05:13-05:00</updated>
   <id>http://localhost:4000/blog/tag/hiking/feed.xml</id>
 
   
@@ -32,6 +32,48 @@
   
   
 
+  
+    <entry>
+      <title type="html">Eagle Bluffs</title>
+      <link href="http://localhost:4000/blog/eagle-bluffs" rel="alternate" type="text/html" title="Eagle Bluffs" />
+      <published>2021-06-20T08:00:00-04:00</published>
+      <updated>2021-06-20T08:00:00-04:00</updated>
+      <id>http://localhost:4000/blog/eagle-bluffs</id>
+      <content type="html" xml:base="http://localhost:4000/blog/eagle-bluffs">&lt;p&gt;A moderate level hike on Cypress Mountain just outside of Vancouver, BC!&lt;/p&gt;
+
+&lt;p&gt;Here are some of my favourite photos from the hike up and the final desintation. Enjoy!&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Eagle-Bluffs1.jpeg?raw=true&quot; alt=&quot;Eagle-Bluffs1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Eagle-Bluffs2.jpeg?raw=true&quot; alt=&quot;Eagle-Bluffs2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Eagle-Bluffs3.jpeg?raw=true&quot; alt=&quot;Eagle-Bluffs3&quot; /&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Bryan Yu</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="hiking" />
+      
+
+      
+        <summary type="html">A moderate level hike on Cypress Mountain just outside of Vancouver, BC!</summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">Garibaldi Lake in Winter</title>
@@ -82,6 +124,130 @@
     </entry>
   
     <entry>
+      <title type="html">Iceberg Lake</title>
+      <link href="http://localhost:4000/blog/iceberg-lake" rel="alternate" type="text/html" title="Iceberg Lake" />
+      <published>2020-09-21T10:00:00-04:00</published>
+      <updated>2020-09-21T10:00:00-04:00</updated>
+      <id>http://localhost:4000/blog/iceberg-lake</id>
+      <content type="html" xml:base="http://localhost:4000/blog/iceberg-lake">&lt;p&gt;A challenging, yet rewarding, hike close to Whistler, BC, Canada!&lt;/p&gt;
+
+&lt;p&gt;Here are some of my favourite photos from the smokey hike. Enjoy!&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Iceberg-Lake.jpeg?raw=true&quot; alt=&quot;Iceberg-Lake&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Iceberg-Lake2.jpeg?raw=true&quot; alt=&quot;Iceberg-Lake2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Iceberg-Lake3.jpeg?raw=true&quot; alt=&quot;Iceberg-Lake3&quot; /&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Bryan Yu</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="hiking" />
+      
+
+      
+        <summary type="html">A challenging, yet rewarding, hike close to Whistler, BC, Canada!</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">St. Mark’s Summit</title>
+      <link href="http://localhost:4000/blog/st-marks-summit" rel="alternate" type="text/html" title="St. Mark's Summit" />
+      <published>2020-09-07T10:00:00-04:00</published>
+      <updated>2020-09-07T10:00:00-04:00</updated>
+      <id>http://localhost:4000/blog/st-marks-summit</id>
+      <content type="html" xml:base="http://localhost:4000/blog/st-marks-summit">&lt;p&gt;An easy hike to a beautiful overlooking cliffside!&lt;/p&gt;
+
+&lt;p&gt;Starting from the top of Cypress Mountain, the hike takes you all the way along the mountain-side. Be ready for some beautiful views!&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/St-Marks-Summit2.jpeg?raw=true&quot; alt=&quot;St-Marks-Summit2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/St-Marks-Summit3.jpeg?raw=true&quot; alt=&quot;St-Marks-Summit3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/St-Marks-Summit1.jpeg?raw=true&quot; alt=&quot;St-Marks-Summit1&quot; /&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Bryan Yu</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="hiking" />
+      
+
+      
+        <summary type="html">An easy hike to a beautiful overlooking cliffside!</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Tunnel Bluffs</title>
+      <link href="http://localhost:4000/blog/tunnel-bluffs" rel="alternate" type="text/html" title="Tunnel Bluffs" />
+      <published>2020-08-30T08:00:00-04:00</published>
+      <updated>2020-08-30T08:00:00-04:00</updated>
+      <id>http://localhost:4000/blog/tunnel-bluffs</id>
+      <content type="html" xml:base="http://localhost:4000/blog/tunnel-bluffs">&lt;p&gt;One of the most stunning hikes off the Sea to Sky Highway in Lions Bay, BC, Canada!&lt;/p&gt;
+
+&lt;p&gt;Be prepared for a super long and steep start, but the views at the end are most definitely worth the grind.&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Tunnel-Bluffs.jpeg?raw=true&quot; alt=&quot;Tunnel-Bluffs&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Tunnel-Bluffs2.jpeg?raw=true&quot; alt=&quot;Tunnel-Bluffs2&quot; /&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Bryan Yu</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="hiking" />
+      
+
+      
+        <summary type="html">One of the most stunning hikes off the Sea to Sky Highway in Lions Bay, BC, Canada!</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
       <title type="html">Lake Louise Tea House Hike</title>
       <link href="http://localhost:4000/blog/lake-louise-tea-house-hike" rel="alternate" type="text/html" title="Lake Louise Tea House Hike" />
       <published>2020-08-23T03:00:00-04:00</published>
@@ -113,6 +279,8 @@
 
 &lt;p&gt;The second tea house is beside the Plain of Six Glaciers and absolutely beautiful as well!&lt;/p&gt;
 
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Lake-Louise6.jpeg?raw=true&quot; alt=&quot;Lake-Louise6&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Lake-Louise2.jpeg?raw=true&quot; alt=&quot;Plain of Six Glaciers&quot; /&gt;&lt;/p&gt;</content>
 
       
@@ -135,6 +303,50 @@
 
       
         <summary type="html">My favourite hike thus far has gotta be the tea house hike at Lake Louise in Alberta, Canada!</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Goat Mountain</title>
+      <link href="http://localhost:4000/blog/goat-mountain" rel="alternate" type="text/html" title="Goat Mountain" />
+      <published>2020-07-25T07:00:00-04:00</published>
+      <updated>2020-07-25T07:00:00-04:00</updated>
+      <id>http://localhost:4000/blog/goat-mountain</id>
+      <content type="html" xml:base="http://localhost:4000/blog/goat-mountain">&lt;p&gt;My favourite hike on Grouse Mountain, BC, Canada!&lt;/p&gt;
+
+&lt;p&gt;Starting off at the top of Grouse Mountain, this hike takes you even higher than ever imaginable. Enjoy the beautiful 360 degree views of the neighbouring mountains and rivers!&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Goat-Mountain1.jpeg?raw=true&quot; alt=&quot;Goat-Mountain1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Goat-Mountain2.jpeg?raw=true&quot; alt=&quot;Goat-Mountain2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Goat-Mountain3.jpeg?raw=true&quot; alt=&quot;Goat-Mountain3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Goat-Mountain4.jpeg?raw=true&quot; alt=&quot;Goat-Mountain4&quot; /&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Bryan Yu</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="hiking" />
+      
+
+      
+        <summary type="html">My favourite hike on Grouse Mountain, BC, Canada!</summary>
       
 
       
@@ -185,6 +397,48 @@
 
       
         <summary type="html">Blackcomb Meadows and Overlord Trail is one of the most breathtaking hikes in the Whistler, BC area!</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Centennial Trail</title>
+      <link href="http://localhost:4000/blog/centennial-trail" rel="alternate" type="text/html" title="Centennial Trail" />
+      <published>2020-05-10T05:00:00-04:00</published>
+      <updated>2020-05-10T05:00:00-04:00</updated>
+      <id>http://localhost:4000/blog/centennial-trail</id>
+      <content type="html" xml:base="http://localhost:4000/blog/centennial-trail">&lt;p&gt;An easy hike right outside of Lions Bay with a hidden waterfall!&lt;/p&gt;
+
+&lt;p&gt;With many up and down trails and a secret waterfall, there are many places to enjoy a picnic!&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Centennial1.jpeg?raw=true&quot; alt=&quot;Centennial1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Centennial2.jpeg?raw=true&quot; alt=&quot;Centennial2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Centennial3.jpeg?raw=true&quot; alt=&quot;Centennial3&quot; /&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Bryan Yu</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="hiking" />
+      
+
+      
+        <summary type="html">An easy hike right outside of Lions Bay with a hidden waterfall!</summary>
       
 
       

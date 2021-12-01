@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://localhost:4000/blog/tag/travel/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/blog/" rel="alternate" type="text/html" />
-  <updated>2021-11-29T21:08:32-05:00</updated>
+  <updated>2021-11-30T21:05:13-05:00</updated>
   <id>http://localhost:4000/blog/tag/travel/feed.xml</id>
 
   
@@ -32,6 +32,46 @@
   
   
 
+  
+    <entry>
+      <title type="html">Ward Island</title>
+      <link href="http://localhost:4000/blog/ward-island" rel="alternate" type="text/html" title="Ward Island" />
+      <published>2021-11-10T22:00:00-05:00</published>
+      <updated>2021-11-10T22:00:00-05:00</updated>
+      <id>http://localhost:4000/blog/ward-island</id>
+      <content type="html" xml:base="http://localhost:4000/blog/ward-island">&lt;p&gt;Who knew Toronto had beautiful beaches too!&lt;/p&gt;
+
+&lt;p&gt;Just a short ferry ride from the Toronto harbourfront, you can find beautiful beaches and an amazing city view!&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Ward-Island1.jpeg?raw=true&quot; alt=&quot;Ward-Island1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Ward-Island2.jpeg?raw=true&quot; alt=&quot;Ward-Island2&quot; /&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Bryan Yu</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="travel" />
+      
+
+      
+        <summary type="html">Who knew Toronto had beautiful beaches too!</summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">Scarborough Bluffs</title>
@@ -208,6 +248,46 @@
     </entry>
   
     <entry>
+      <title type="html">Deer Lake Ducks</title>
+      <link href="http://localhost:4000/blog/deer-lake-ducks" rel="alternate" type="text/html" title="Deer Lake Ducks" />
+      <published>2021-01-19T22:00:00-05:00</published>
+      <updated>2021-01-19T22:00:00-05:00</updated>
+      <id>http://localhost:4000/blog/deer-lake-ducks</id>
+      <content type="html" xml:base="http://localhost:4000/blog/deer-lake-ducks">&lt;p&gt;My favourite childhood lake with some little friends!&lt;/p&gt;
+
+&lt;p&gt;Deer Lake is a hidden gem in Burnaby, BC, Canada, a short drive from Vancouver. I grew up right beside this lake and have walked around it hundreds of times, but it never grows old.&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Deer-Lake-Ducks.jpeg?raw=true&quot; alt=&quot;Deer-Lake-Ducks&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Deer-Lake1.jpeg?raw=true&quot; alt=&quot;Deer-Lake1&quot; /&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Bryan Yu</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="travel" />
+      
+
+      
+        <summary type="html">My favourite childhood lake with some little friends!</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
       <title type="html">Exploring Goldstream</title>
       <link href="http://localhost:4000/blog/goldstream" rel="alternate" type="text/html" title="Exploring Goldstream" />
       <published>2020-09-19T08:00:00-04:00</published>
@@ -219,9 +299,15 @@
 
 &lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Goldstream1.jpeg?raw=true&quot; alt=&quot;Goldstream1&quot; /&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Goldstream5.jpeg?raw=true&quot; alt=&quot;Goldstream5&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Goldstream3.jpeg?raw=true&quot; alt=&quot;Goldstream3&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Goldstream2.jpeg?raw=true&quot; alt=&quot;Goldstream2&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Goldstream3.jpeg?raw=true&quot; alt=&quot;Goldstream3&quot; /&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Goldstream6.jpeg?raw=true&quot; alt=&quot;Goldstream6&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Goldstream4.jpeg?raw=true&quot; alt=&quot;Goldstream4&quot; /&gt;&lt;/p&gt;</content>
 
       
       
@@ -298,10 +384,54 @@
     </entry>
   
     <entry>
+      <title type="html">Banff</title>
+      <link href="http://localhost:4000/blog/banff" rel="alternate" type="text/html" title="Banff" />
+      <published>2020-08-21T08:00:00-04:00</published>
+      <updated>2020-08-21T08:00:00-04:00</updated>
+      <id>http://localhost:4000/blog/banff</id>
+      <content type="html" xml:base="http://localhost:4000/blog/banff">&lt;p&gt;I honestly think the most beautiful place in Canada is Banff, AB, Canada!&lt;/p&gt;
+
+&lt;p&gt;Here are some of my favourite photos of the stunning mountains. Enjoy!&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Banff1.jpeg?raw=true&quot; alt=&quot;Banff1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Banff2.jpeg?raw=true&quot; alt=&quot;Banff2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Banff3.jpeg?raw=true&quot; alt=&quot;Banff3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img max-width=&quot;100vw&quot; align=&quot;center&quot; src=&quot;https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Banff4.jpeg?raw=true&quot; alt=&quot;Banff4&quot; /&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Bryan Yu</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="travel" />
+      
+
+      
+        <summary type="html">I honestly think the most beautiful place in Canada is Banff, AB, Canada!</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
       <title type="html">Porteau Cove</title>
       <link href="http://localhost:4000/blog/porteau-cove" rel="alternate" type="text/html" title="Porteau Cove" />
-      <published>2020-04-16T23:00:00-04:00</published>
-      <updated>2020-04-16T23:00:00-04:00</updated>
+      <published>2020-04-17T11:00:00-04:00</published>
+      <updated>2020-04-17T11:00:00-04:00</updated>
       <id>http://localhost:4000/blog/porteau-cove</id>
       <content type="html" xml:base="http://localhost:4000/blog/porteau-cove">&lt;p&gt;Between Whistler and Vancouver, BC, Canada, we find a hidden gem: Porteau Cove!&lt;/p&gt;
 

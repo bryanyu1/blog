@@ -8,6 +8,21 @@
     
       
       <item>
+        <title>Ward Island</title>
+        
+          <description>&lt;p&gt;Who knew Toronto had beautiful beaches too!&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Wed, 10 Nov 2021 22:00:00 -0500</pubDate>
+        <link>
+        http://localhost:4000/ward-island</link>
+        <guid isPermaLink="true">http://localhost:4000/ward-island</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Scarborough Bluffs</title>
         
           <description>&lt;p&gt;Who knew Toronto, Ontario had beautiful scenary just outside of the city!&lt;/p&gt;
@@ -33,6 +48,21 @@
         <link>
         http://localhost:4000/crego-lake</link>
         <guid isPermaLink="true">http://localhost:4000/crego-lake</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Eagle Bluffs</title>
+        
+          <description>&lt;p&gt;A moderate level hike on Cypress Mountain just outside of Vancouver, BC!&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 20 Jun 2021 08:00:00 -0400</pubDate>
+        <link>
+        http://localhost:4000/eagle-bluffs</link>
+        <guid isPermaLink="true">http://localhost:4000/eagle-bluffs</guid>
       </item>
       
     
@@ -83,6 +113,36 @@
     
       
       <item>
+        <title>Deer Lake Ducks</title>
+        
+          <description>&lt;p&gt;My favourite childhood lake with some little friends!&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 19 Jan 2021 22:00:00 -0500</pubDate>
+        <link>
+        http://localhost:4000/deer-lake-ducks</link>
+        <guid isPermaLink="true">http://localhost:4000/deer-lake-ducks</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Iceberg Lake</title>
+        
+          <description>&lt;p&gt;A challenging, yet rewarding, hike close to Whistler, BC, Canada!&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 21 Sep 2020 10:00:00 -0400</pubDate>
+        <link>
+        http://localhost:4000/iceberg-lake</link>
+        <guid isPermaLink="true">http://localhost:4000/iceberg-lake</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Exploring Goldstream</title>
         
           <description>&lt;p&gt;A short drive outside of Victoria, BC, Canada, we find Goldstream Provincial Park!&lt;/p&gt;
@@ -93,6 +153,36 @@
         <link>
         http://localhost:4000/goldstream</link>
         <guid isPermaLink="true">http://localhost:4000/goldstream</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>St. Mark's Summit</title>
+        
+          <description>&lt;p&gt;An easy hike to a beautiful overlooking cliffside!&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 07 Sep 2020 10:00:00 -0400</pubDate>
+        <link>
+        http://localhost:4000/st-marks-summit</link>
+        <guid isPermaLink="true">http://localhost:4000/st-marks-summit</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Tunnel Bluffs</title>
+        
+          <description>&lt;p&gt;One of the most stunning hikes off the Sea to Sky Highway in Lions Bay, BC, Canada!&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 30 Aug 2020 08:00:00 -0400</pubDate>
+        <link>
+        http://localhost:4000/tunnel-bluffs</link>
+        <guid isPermaLink="true">http://localhost:4000/tunnel-bluffs</guid>
       </item>
       
     
@@ -128,6 +218,36 @@
     
       
       <item>
+        <title>Banff</title>
+        
+          <description>&lt;p&gt;I honestly think the most beautiful place in Canada is Banff, AB, Canada!&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Fri, 21 Aug 2020 08:00:00 -0400</pubDate>
+        <link>
+        http://localhost:4000/banff</link>
+        <guid isPermaLink="true">http://localhost:4000/banff</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Goat Mountain</title>
+        
+          <description>&lt;p&gt;My favourite hike on Grouse Mountain, BC, Canada!&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 25 Jul 2020 07:00:00 -0400</pubDate>
+        <link>
+        http://localhost:4000/goat-mountain</link>
+        <guid isPermaLink="true">http://localhost:4000/goat-mountain</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Blackcomb Meadows and Overlord Trail</title>
         
           <description>&lt;p&gt;Blackcomb Meadows and Overlord Trail is one of the most breathtaking hikes in the Whistler, BC area!&lt;/p&gt;
@@ -143,13 +263,28 @@
     
       
       <item>
+        <title>Centennial Trail</title>
+        
+          <description>&lt;p&gt;An easy hike right outside of Lions Bay with a hidden waterfall!&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 10 May 2020 05:00:00 -0400</pubDate>
+        <link>
+        http://localhost:4000/centennial-trail</link>
+        <guid isPermaLink="true">http://localhost:4000/centennial-trail</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Porteau Cove</title>
         
           <description>&lt;p&gt;Between Whistler and Vancouver, BC, Canada, we find a hidden gem: Porteau Cove!&lt;/p&gt;
 
 </description>
         
-        <pubDate>Thu, 16 Apr 2020 23:00:00 -0400</pubDate>
+        <pubDate>Fri, 17 Apr 2020 11:00:00 -0400</pubDate>
         <link>
         http://localhost:4000/porteau-cove</link>
         <guid isPermaLink="true">http://localhost:4000/porteau-cove</guid>
