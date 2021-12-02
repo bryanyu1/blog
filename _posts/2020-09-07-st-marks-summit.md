@@ -11,7 +11,7 @@ subclass: 'post'
 author: bryan
 ---
 
-An easy hike to a beautiful overlooking cliffside!
+An easy hike to a beautiful overlooking cliffside! 
 
 Starting from the top of Cypress Mountain, the hike takes you all the way along the mountain-side. Be ready for some beautiful views! 
 
