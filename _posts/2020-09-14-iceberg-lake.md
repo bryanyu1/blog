@@ -11,7 +11,7 @@ subclass: 'post'
 author: bryan
 ---
 
-A challenging, yet rewarding, hike close to Whistler, BC, Canada! 
+A challenging, yet rewarding, hike close to Whistler, BC, Canada!
 
 Here are some of my favourite photos from the smokey hike. Enjoy!
 
