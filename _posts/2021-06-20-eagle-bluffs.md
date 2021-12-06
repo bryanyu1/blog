@@ -11,7 +11,7 @@ subclass: 'post'
 author: bryan
 ---
 
-A moderate level hike on Cypress Mountain just outside of Vancouver, BC!
+A moderate level hike on Cypress Mountain just outside of Vancouver, BC! 
 
 Here are some of my favourite photos from the hike up and the final desintation. Enjoy! 
 
