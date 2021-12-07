@@ -11,7 +11,7 @@ subclass: 'post'
 author: bryan
 ---
 
-One of the most stunning hikes off the Sea to Sky Highway in Lions Bay, BC, Canada! 
+One of the most stunning hikes off the Sea to Sky Highway in Lions Bay, BC, Canada!
 
 Be prepared for a super long and steep start, but the views at the end are most definitely worth the grind. 
 
