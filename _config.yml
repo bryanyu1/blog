@@ -2,7 +2,7 @@
 markdown: kramdown
 highlighter: rouge
 paginate: 100
-# it will paginate after this number
+# it will paginate after this number 
 language: 'en-uk'
 words_per_minute: 200
 
