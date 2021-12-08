@@ -11,7 +11,7 @@ subclass: 'post'
 author: bryan
 ---
 
-Who knew Toronto had beautiful beaches too! 
+Who knew Toronto had beautiful beaches too!
 
 Just a short ferry ride from the Toronto harbourfront, you can find beautiful beaches and an amazing city view! 
 
