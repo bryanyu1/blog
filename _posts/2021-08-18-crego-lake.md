@@ -11,7 +11,7 @@ subclass: 'post'
 author: bryan
 ---
 
-Cottage season means I get to see the most amazing lakes in Northern Ontario!
+Cottage season means I get to see the most amazing lakes in Northern Ontario! 
 
 Here are some of my favourite photos from my cottage trip to Crego Lake! 
 
