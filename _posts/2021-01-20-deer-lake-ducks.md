@@ -11,7 +11,7 @@ subclass: 'post'
 author: bryan
 ---
 
-My favourite childhood lake with some little friends! 
+My favourite childhood lake with some little friends!
 
 Deer Lake is a hidden gem in Burnaby, BC, Canada, a short drive from Vancouver. I grew up right beside this lake and have walked around it hundreds of times, but it never grows old. 
 
