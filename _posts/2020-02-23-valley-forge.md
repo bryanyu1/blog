@@ -13,7 +13,7 @@ author: bryan
 
 A historical land with much to discover!
 
-Located just outside of Philadelphia, PA, USA, here are some of my favourite memorials from the Valley Forge! 
+Located just outside of Philadelphia, PA, USA, here are some of my favourite memorials from the Valley Forge!
 
 <img max-width="100vw" align="center" src="https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Philadelphia1.jpeg?raw=true" alt="Philadelphia1">
 
