@@ -13,7 +13,7 @@ author: bryan
 
 My favourite hike thus far has gotta be the tea house hike at Lake Louise in Alberta, Canada!
 
-Here are some of my favourite photos from the hike. Enjoy!
+Here are some of my favourite photos from the hike. Enjoy! 
 
 
 Before the hike, I had an amazing view of Lake Louise at sunrise. 
