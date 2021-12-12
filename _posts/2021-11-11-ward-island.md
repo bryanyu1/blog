@@ -13,7 +13,7 @@ author: bryan
 
 Who knew Toronto had beautiful beaches too!
 
-Just a short ferry ride from the Toronto harbourfront, you can find beautiful beaches and an amazing city view!
+Just a short ferry ride from the Toronto harbourfront, you can find beautiful beaches and an amazing city view! 
 
 <img max-width="100vw" align="center" src="https://github.com/bryanyu1/blog/blob/gh-pages/assets/images/Ward-Island1.jpeg?raw=true" alt="Ward-Island1">
 
