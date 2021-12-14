@@ -11,7 +11,7 @@ subclass: 'post'
 author: bryan
 ---
 
-Who knew Toronto, Ontario had beautiful scenary just outside of the city!
+Who knew Toronto, Ontario had beautiful scenary just outside of the city! 
 
 Here are some of my favourite photos from a hidden gem, the Scarborough Bluffs, just outside of the major city!
 
