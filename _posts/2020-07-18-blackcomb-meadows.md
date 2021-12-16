@@ -11,7 +11,7 @@ subclass: 'post'
 author: bryan
 ---
 
-Blackcomb Meadows and Overlord Trail is one of the most breathtaking hikes in the Whistler, BC area!
+Blackcomb Meadows and Overlord Trail is one of the most breathtaking hikes in the Whistler, BC area! 
 
 There are stunning views of Whistler mountain throughout the entire hike, making it one of the most enjoyable hikes I have ever done.
 
