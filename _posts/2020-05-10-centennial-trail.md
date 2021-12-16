@@ -11,7 +11,7 @@ subclass: 'post'
 author: bryan
 ---
 
-An easy hike right outside of Lions Bay with a hidden waterfall!
+An easy hike right outside of Lions Bay with a hidden waterfall! 
 
 With many up and down trails and a secret waterfall, there are many places to enjoy a picnic!
 
