@@ -11,7 +11,7 @@ subclass: 'post'
 author: bryan
 ---
 
-A historical land with much to discover! 
+A historical land with much to discover!
 
 Located just outside of Philadelphia, PA, USA, here are some of my favourite memorials from the Valley Forge!
 
